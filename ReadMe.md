@@ -4,7 +4,7 @@
 
 **注意: 群收款码: 扫码写上名字、号码、房号**  
 
-![](./resources/a.jpeg){:height="50%" width="50%"}
+![](./resources/a.jpeg)
 
 
 ### 交钱业主明细

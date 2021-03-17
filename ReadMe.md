@@ -23,6 +23,9 @@
 #### 净水器介绍
 1. https://zhuanlan.zhihu.com/p/252591708
 
+#### 蹲便器常识
+1. https://zhuanlan.zhihu.com/p/313591441
+
 ***
 ### 注意点
 1. 厨房灶台高低设计,灶台(80cm), 水槽区(90cm)
